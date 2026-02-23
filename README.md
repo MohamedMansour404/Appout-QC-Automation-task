@@ -1,4 +1,4 @@
-# QA Automation Intern Task
+# QC Automation Intern Task
 
 ## Overview
 
